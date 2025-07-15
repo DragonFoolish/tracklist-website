@@ -1,0 +1,24 @@
+.body {
+    padding: 50px;
+    margin: 50px;
+    height: 200%;
+    width: 100px;
+    align-items: center;
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+    background: linear-gradient( #6820db, #6910b1);
+    border: 36px;
+}
+
+.ToDo {
+    padding: 20px;
+    margin: 0px;
+    height: 350px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+    background: linear-gradient( #99d130, #77ac1671);
+    border: 34px;
+    border-radius: 36px;
+    text-align: ;
+}
